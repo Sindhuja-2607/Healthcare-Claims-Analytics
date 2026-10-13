@@ -1,0 +1,5 @@
+encounter_type,encounter_count,total_charge,average_charge
+Emergency,1206,2981374.62,2472.12
+Inpatient,861,16294544.46,18925.14
+Outpatient,2991,7586655.6,2536.49
+Telehealth,942,2399501.74,2547.24

@@ -1,0 +1,21 @@
+diagnosis_code,encounter_count,total_charge,average_charge,diagnosis_name,category
+F32.A,327,1777838.93,5436.82,Depression,Behavioral Health
+N39.0,306,1683004.76,5500.02,Urinary tract infection,Acute
+R10.9,336,1664255.99,4953.14,Abdominal pain,Symptom
+I25.10,295,1634004.76,5539.0,Coronary artery disease,Cardiovascular
+J18.9,288,1600699.96,5557.99,Pneumonia,Acute
+F41.9,307,1597060.38,5202.15,Anxiety disorder,Behavioral Health
+J45.909,331,1547862.03,4676.32,Asthma,Chronic
+G43.909,301,1508470.07,5011.53,Migraine,Neurological
+K21.9,336,1491597.98,4439.28,Gastro-esophageal reflux disease,Chronic
+N18.3,304,1484099.52,4881.91,Chronic kidney disease,Chronic
+E78.5,325,1466104.9,4511.09,Hyperlipidemia,Chronic
+D64.9,307,1449303.64,4720.86,Anemia,Hematology
+J06.9,283,1443845.3,5101.93,Acute upper respiratory infection,Acute
+Z00.00,304,1405751.01,4624.18,Routine health examination,Preventive
+M25.561,274,1314906.14,4798.93,Pain in right knee,Musculoskeletal
+L03.90,299,1291122.26,4318.13,Cellulitis,Acute
+I10,244,1282338.44,5255.49,Essential hypertension,Chronic
+E11.9,272,1263129.72,4643.86,Type 2 diabetes mellitus,Chronic
+R51.9,295,1208936.74,4098.09,Headache,Symptom
+M54.5,266,1147743.89,4314.83,Low back pain,Musculoskeletal

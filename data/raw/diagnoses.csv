@@ -1,0 +1,21 @@
+diagnosis_code,diagnosis_name,category
+E11.9,Type 2 diabetes mellitus,Chronic
+I10,Essential hypertension,Chronic
+J45.909,Asthma,Chronic
+M54.5,Low back pain,Musculoskeletal
+K21.9,Gastro-esophageal reflux disease,Chronic
+N39.0,Urinary tract infection,Acute
+J06.9,Acute upper respiratory infection,Acute
+R51.9,Headache,Symptom
+Z00.00,Routine health examination,Preventive
+E78.5,Hyperlipidemia,Chronic
+G43.909,Migraine,Neurological
+F41.9,Anxiety disorder,Behavioral Health
+F32.A,Depression,Behavioral Health
+M25.561,Pain in right knee,Musculoskeletal
+R10.9,Abdominal pain,Symptom
+J18.9,Pneumonia,Acute
+I25.10,Coronary artery disease,Cardiovascular
+N18.3,Chronic kidney disease,Chronic
+D64.9,Anemia,Hematology
+L03.90,Cellulitis,Acute

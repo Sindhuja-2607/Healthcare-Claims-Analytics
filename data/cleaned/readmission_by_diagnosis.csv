@@ -1,0 +1,21 @@
+diagnosis_code,inpatient_discharges,readmissions_30_day,readmission_rate,diagnosis_name,category
+G43.909,44,6,13.64,Migraine,Neurological
+E11.9,39,5,12.82,Type 2 diabetes mellitus,Chronic
+D64.9,42,5,11.9,Anemia,Hematology
+J06.9,46,5,10.87,Acute upper respiratory infection,Acute
+R10.9,52,5,9.62,Abdominal pain,Symptom
+J45.909,45,4,8.89,Asthma,Chronic
+Z00.00,42,3,7.14,Routine health examination,Preventive
+K21.9,42,3,7.14,Gastro-esophageal reflux disease,Chronic
+I10,44,3,6.82,Essential hypertension,Chronic
+M54.5,30,2,6.67,Low back pain,Musculoskeletal
+F41.9,47,3,6.38,Anxiety disorder,Behavioral Health
+I25.10,47,3,6.38,Coronary artery disease,Cardiovascular
+J18.9,50,3,6.0,Pneumonia,Acute
+N39.0,51,3,5.88,Urinary tract infection,Acute
+M25.561,38,2,5.26,Pain in right knee,Musculoskeletal
+L03.90,39,2,5.13,Cellulitis,Acute
+N18.3,44,2,4.55,Chronic kidney disease,Chronic
+F32.A,54,1,1.85,Depression,Behavioral Health
+E78.5,36,0,0.0,Hyperlipidemia,Chronic
+R51.9,29,0,0.0,Headache,Symptom

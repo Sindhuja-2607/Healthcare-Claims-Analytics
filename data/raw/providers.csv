@@ -1,0 +1,51 @@
+provider_id,provider_name,specialty,facility_id,state
+PR1001,Provider 1,Cardiology,F109,CT
+PR1002,Provider 2,Orthopedics,F107,PA
+PR1003,Provider 3,Emergency Medicine,F104,NJ
+PR1004,Provider 4,Internal Medicine,F106,NJ
+PR1005,Provider 5,Cardiology,F102,NJ
+PR1006,Provider 6,Pediatrics,F107,PA
+PR1007,Provider 7,Pediatrics,F102,NJ
+PR1008,Provider 8,Primary Care,F110,CT
+PR1009,Provider 9,Internal Medicine,F108,PA
+PR1010,Provider 10,Primary Care,F108,MA
+PR1011,Provider 11,Emergency Medicine,F101,PA
+PR1012,Provider 12,Emergency Medicine,F108,CT
+PR1013,Provider 13,Orthopedics,F102,MA
+PR1014,Provider 14,Endocrinology,F106,PA
+PR1015,Provider 15,Primary Care,F101,NJ
+PR1016,Provider 16,Emergency Medicine,F105,NY
+PR1017,Provider 17,Primary Care,F107,NY
+PR1018,Provider 18,Emergency Medicine,F110,NJ
+PR1019,Provider 19,Cardiology,F101,NY
+PR1020,Provider 20,Primary Care,F102,NY
+PR1021,Provider 21,Cardiology,F107,NJ
+PR1022,Provider 22,Primary Care,F106,NJ
+PR1023,Provider 23,Endocrinology,F103,PA
+PR1024,Provider 24,Orthopedics,F110,PA
+PR1025,Provider 25,Pediatrics,F102,NJ
+PR1026,Provider 26,Pediatrics,F110,CT
+PR1027,Provider 27,Pediatrics,F104,NY
+PR1028,Provider 28,Cardiology,F103,PA
+PR1029,Provider 29,Internal Medicine,F107,NY
+PR1030,Provider 30,Emergency Medicine,F108,MA
+PR1031,Provider 31,Pediatrics,F102,NJ
+PR1032,Provider 32,Endocrinology,F110,CT
+PR1033,Provider 33,Pediatrics,F107,MA
+PR1034,Provider 34,Primary Care,F108,MA
+PR1035,Provider 35,Cardiology,F106,MA
+PR1036,Provider 36,Internal Medicine,F106,NJ
+PR1037,Provider 37,Primary Care,F110,PA
+PR1038,Provider 38,Internal Medicine,F101,NJ
+PR1039,Provider 39,Primary Care,F104,PA
+PR1040,Provider 40,Primary Care,F101,MA
+PR1041,Provider 41,Orthopedics,F104,MA
+PR1042,Provider 42,Orthopedics,F102,CT
+PR1043,Provider 43,Emergency Medicine,F105,PA
+PR1044,Provider 44,Cardiology,F110,MA
+PR1045,Provider 45,Endocrinology,F109,NY
+PR1046,Provider 46,Endocrinology,F110,CT
+PR1047,Provider 47,Endocrinology,F103,NJ
+PR1048,Provider 48,Primary Care,F108,CT
+PR1049,Provider 49,Orthopedics,F103,NY
+PR1050,Provider 50,Cardiology,F106,PA
